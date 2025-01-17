@@ -23,14 +23,6 @@
 
 ---
 
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=📊+Dynamic+Stats" alt="Dynamic Stats Animation" />
-  </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinkhoshbakht&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="200" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasinkhoshbakht&theme=radical&hide_border=true&date_format=j M[ Y]" height="200" alt="GitHub Streaks" />
-</div>
 
 ---
 
